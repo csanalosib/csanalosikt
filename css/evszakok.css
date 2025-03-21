@@ -2,9 +2,13 @@ body{
     background-color: bisque;
 }
 
+h1{
+    text-align: center;
+}
+
 img{
     width: 240px;
-    margin: 24px;
+    margin: 30px;
     border: 5px solid black;
     border-radius: 15px;
     transition: 1s;
